@@ -1,0 +1,14 @@
+.idea/
+venv/
+fastapienv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.log
+*.sqlite3
+.DS_Store
+/todoapp/alembic.ini
+/todoapp/todos.db
+testdb.db
+todos.db
