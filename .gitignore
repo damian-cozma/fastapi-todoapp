@@ -12,4 +12,3 @@ __pycache__/
 /todoapp/todos.db
 testdb.db
 todos.db
-/todoapp/static/css/bootstrap.css
